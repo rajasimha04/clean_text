@@ -1,0 +1,5 @@
+id,text,cleaned_text
+1,नमस्ते! This is a sample text 123...!!!,नमस्ते! This is a sample text 123...!!!
+2,"Good Morning 🙏😊, कैसे हो?","Good Morning , कैसे हो?"
+3,"Ye ek aur line hai, full of @#$%^&* symbols!!!","Ye ek aur line hai, full of symbols!!!"
+4,Mix123टेक्स्ट & हिंदी123English✅,Mix123टेक्स्ट हिंदी123English
